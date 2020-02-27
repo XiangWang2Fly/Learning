@@ -1,2 +1,2 @@
 # Learning
-Online Learning materials
+Online learning materials
