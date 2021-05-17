@@ -481,7 +481,7 @@ It's her. It's definitely her.
 
 182
 00:15:42,308 --> 00:15:43,438
-AECYou got it, you got it!
+You got it, you got it!
 
 183
 00:15:52,885 --> 00:15:54,315
@@ -1112,10 +1112,6 @@ Fast as we can.
 Really put the pedal to the metal,
 you know?
 
-359
-00:25:08,974 --> 00:25:11,675
-Go back 10 seconds!
-
 360
 00:25:11,676 --> 00:25:16,306
 Why can't we go backwards,
@@ -1134,10 +1130,6 @@ you know?
 363
 00:25:24,523 --> 00:25:26,323
 Bill and Ted did it.
-
-364
-00:25:47,646 --> 00:25:49,706
-Back again so soon?
 
 365
 00:25:51,249 --> 00:25:53,449
