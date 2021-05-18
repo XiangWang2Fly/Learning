@@ -2797,10 +2797,6 @@ The one with the lame tattoo.
 Run him through our database,
 every IOI drone in Columbus.
 
-1011
-01:13:03,083 --> 01:13:04,578
-Find him.
-
 1012
 01:13:31,440 --> 01:13:33,174
 Groceries are here.
@@ -3129,11 +3125,6 @@ to section 97 for escort.
 1096
 01:18:57,432 --> 01:19:00,302
 Hey! Newbie, get to work.
-
-1098
-01:19:09,878 --> 01:19:13,008
-- Work violation.
-- Work violation.
 
 1099
 01:19:14,750 --> 01:19:17,850
