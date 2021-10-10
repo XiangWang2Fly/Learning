@@ -2,10 +2,6 @@
 00:02:09,596 --> 00:02:11,326
 Gilmore.
 
-7
-00:02:11,331 --> 00:02:14,231
-Life getting you down?
-
 9
 00:02:21,441 --> 00:02:25,251
 Corn Syrup Droughts, 
@@ -197,12 +193,6 @@ And what he left behind
 Before I died, I created what we
 in the biz call an "Easter egg."
 
-113
-00:08:36,282 --> 00:08:43,192
-A hidden object in a game that gives
-special powers to whoever discovers it.
-
-
 
 115
 00:08:47,193 --> 00:08:50,831
@@ -224,23 +214,13 @@ of half a million do...
 Uh, half a trillion
 dollars' worth,
 
-119
-00:09:01,340 --> 00:09:07,810
-and total control
-of the OASIS itself.
-
-120
+20
 00:09:07,813 --> 00:09:13,523
-In the form of my avatar,
 Anorak the All-Knowing,
 
-121
-00:09:13,524 --> 00:09:17,188
-I created three keys.
 
 122
 00:09:17,189 --> 00:09:20,559
-Three hidden challenges
 test for worthy traits
 
 123
@@ -277,13 +257,6 @@ they're invisible,
 hidden in a dark room
 that's at the center of a maze
 
-130
-00:09:50,193 --> 00:09:53,159
-that's located somewhere
-
-131
-00:09:54,093 --> 00:09:56,528
-up here.
 
 132
 00:09:56,529 --> 00:10:00,629
@@ -307,7 +280,6 @@ no one has even gotten one key.
 136
 00:10:14,814 --> 00:10:17,816
 And the big scoreboard?
-Still empty.
 
 137
 00:10:17,817 --> 00:10:19,747
@@ -321,10 +293,6 @@ and found the first challenge.
 139
 00:10:22,037 --> 00:10:24,321
 Then, this portal appeared.
-
-140
-00:10:24,323 --> 00:10:27,763
-race
 
 141
 00:10:27,764 --> 00:10:30,760
@@ -481,7 +449,7 @@ It's her. It's definitely her.
 
 182
 00:15:42,308 --> 00:15:43,438
-AECYou got it, you got it!
+You got it, you got it!
 
 183
 00:15:52,885 --> 00:15:54,315
@@ -499,9 +467,6 @@ Bail! Bail out!
 00:16:05,603 --> 00:16:06,667
 Bail!
 
-188
-00:16:45,037 --> 00:16:46,537
-Damn, I loved that bike.
 
 192
 00:17:07,159 --> 00:17:09,289
@@ -568,9 +533,6 @@ You'll have to excuse him.
 He gets a little nervous
 around pretty girls.
 
-207
-00:17:48,834 --> 00:17:51,344
-I can fix it in 10 minutes.
 
 208
 00:17:52,671 --> 00:17:55,271
@@ -664,7 +626,6 @@ why you stopped short.
 
 238
 00:19:14,987 --> 00:19:18,157
-I stopped because of Kong.
 No one ever makes it past Kong.
 
 240
@@ -676,9 +637,12 @@ hated making rules.
 00:19:25,497 --> 00:19:27,297
 - No, I'm not!
 
+245
+00:19:30,269 --> 00:19:32,599
+takes over the world.
 249
 00:19:42,114 --> 00:19:44,329
-There you go. Good as new.
+There you go. 
 
 250
 00:19:44,330 --> 00:19:46,546
@@ -814,18 +778,13 @@ I swear to G-O-D, Wade Watts,
 if I catch you
 touching my stuff again,
 
-288
-00:21:41,435 --> 00:21:44,043
-not joking... Out.
-
 290
 00:21:53,245 --> 00:21:55,005
 My dad picked that name
 
 291
 00:21:55,013 --> 00:21:57,253
-because it sounded
-like a superhero's alter ego,
+alter ego,
 
 292
 00:21:57,254 --> 00:22:00,919
@@ -884,9 +843,6 @@ Or maybe...
 Maybe it's because
 that line means something
 
-305
-00:22:37,664 --> 00:22:39,356
-and I missed it.
 
 306
 00:22:42,160 --> 00:22:44,109
@@ -935,9 +891,6 @@ Office party.
 Office party.
 Yes, you've only seen it a thousand times.
 
-316
-00:23:08,254 --> 00:23:11,021
-Why not go back?
 
 317
 00:23:11,022 --> 00:23:14,732
@@ -1089,9 +1042,6 @@ But that's the point, isn't it?
 Things move forward
 whether you like it or not.
 
-354
-00:24:50,522 --> 00:24:52,662
-Yeah, we're finished.
 
 355
 00:24:52,663 --> 00:24:54,357
@@ -1102,19 +1052,11 @@ Fine.
 Why can't we go backwards,
 for once?
 
-357
-00:25:02,667 --> 00:25:06,867
-Backwards, really fast.
-Fast as we can.
 
 358
 00:25:06,872 --> 00:25:08,972
 Really put the pedal to the metal,
 you know?
-
-359
-00:25:08,974 --> 00:25:11,675
-Go back 10 seconds!
 
 360
 00:25:11,676 --> 00:25:16,306
@@ -1135,34 +1077,11 @@ you know?
 00:25:24,523 --> 00:25:26,323
 Bill and Ted did it.
 
-364
-00:25:47,646 --> 00:25:49,706
-Back again so soon?
-
-365
-00:25:51,249 --> 00:25:53,449
-Careful not to lose your shit.
-
-366
-00:25:57,489 --> 00:25:59,859
-You figured something out.
 
 368
 00:27:42,160 --> 00:27:47,000
 Nice racing, Padawan.
-You're the first to finish.
 
-370
-00:27:52,871 --> 00:27:54,804
-It's such an honor.
-
-371
-00:27:54,805 --> 00:27:56,739
-The honor is all mine.
-
-372
-00:28:07,819 --> 00:28:09,619
-Get yourself a clue.
 
 373
 00:28:24,135 --> 00:28:27,735
@@ -1217,10 +1136,7 @@ to me about stock prices?
 The shareholders
 won't be happy.
 
-388
-00:29:04,375 --> 00:29:07,045
-It's not our job to make them happy.
-It's our job to make them money,
+
 
 389
 00:29:07,046 --> 00:29:11,145
@@ -1248,7 +1164,6 @@ we can sell up to 80%
 
 394
 00:29:24,195 --> 00:29:29,595
-of an individual's visual field before
 inducing seizures, so picture this...
 
 395
@@ -1366,10 +1281,7 @@ we're meeting here?
 00:32:10,403 --> 00:32:15,625
 The Orb of Osuvox.
 
-425
-00:32:15,633 --> 00:32:19,003
-You wanted it. He had it.
-And so here it is.
+
 
 426
 00:32:22,774 --> 00:32:26,744
@@ -1390,9 +1302,7 @@ to keep this for now.
 I'm gonna let you know
 when I wanna use it.
 
-433
-00:32:42,165 --> 00:32:43,230
-Okay?
+
 
 434
 00:32:46,631 --> 00:32:50,671
@@ -1403,10 +1313,7 @@ I have another job for you.
 00:32:50,672 --> 00:32:51,998
 Ah.
 
-437
-00:32:53,938 --> 00:32:56,908
-Let me guess,
-you want him off the scoreboard.
+
 
 438
 00:32:57,742 --> 00:32:59,242
@@ -1428,7 +1335,6 @@ on him like hoes on Santa.
 
 443
 00:33:09,487 --> 00:33:13,117
-That's what I like about you,
 You never lick.
 
 444
@@ -1506,7 +1412,6 @@ his own creation.
 
 462
 00:34:10,915 --> 00:34:15,415
-"A hidden key, a leap not taken.
 Retrace your steps, escape your past."
 
 463
@@ -1555,26 +1460,7 @@ Let me get an autograph!
 00:35:43,474 --> 00:35:45,308
 Watch it!
 
-474
-00:35:45,309 --> 00:35:49,449
-You're famous now!
-You can't just go wherever you want!
 
-475
-00:35:49,450 --> 00:35:50,847
-No, no, no, I...
-
-476
-00:35:55,486 --> 00:35:57,656
-Huh?
-
-477
-00:36:01,125 --> 00:36:03,525
-Ahh!
-
-478
-00:36:09,600 --> 00:36:13,800
-That is... That is not funny.
 
 479
 00:36:13,804 --> 00:36:16,458
@@ -1605,13 +1491,7 @@ Clark Kent glasses.
 They hide your identity
 without changing your look.
 
-487
-00:36:43,734 --> 00:36:45,344
-I'm not wearing that.
 
-488
-00:36:54,879 --> 00:36:57,514
-This is great.
 
 489
 00:36:57,515 --> 00:36:59,575
@@ -1718,9 +1598,7 @@ as in?
 00:38:17,328 --> 00:38:21,098
 What'd you do?
 
-527
-00:38:37,748 --> 00:38:39,416
-Hold the phone.
+
 
 529
 00:38:43,521 --> 00:38:46,961
@@ -1750,9 +1628,7 @@ time she's ever mentioned.
 She was an important part
 of both their lives.
 
-537
-00:39:02,175 --> 00:39:04,113
-I'll bet you anything.
+
 
 540
 00:39:12,985 --> 00:39:15,185
@@ -1763,9 +1639,6 @@ That's her gamer tag.
 purposely removed every
 mention of her except for this one.
 
-542
-00:39:17,888 --> 00:39:19,518
-That's weird. Why?
 
 543
 00:39:19,523 --> 00:39:22,088
@@ -1874,7 +1747,6 @@ I got it!
 589
 00:41:21,979 --> 00:41:24,009
 - Buckaroo Banzai?
-- Yeah!
 
 590
 00:41:24,014 --> 00:41:27,284
@@ -1896,9 +1768,7 @@ She'll get my outfit.
 There's just this connection.
 I mean, sometimes, we even...
 
-596
-00:41:38,762 --> 00:41:40,462
-- Finish each other's sentences?
+
 
 603
 00:41:54,545 --> 00:41:57,715
@@ -1976,14 +1846,8 @@ is the thing he hates.
 And "A hidden key,
 a leap not taken"?
 
-644
-00:44:25,295 --> 00:44:26,755
-But people jump off it
-all night long.
 
-648
-00:44:36,206 --> 00:44:37,676
-So we take it together?
+
 
 650
 00:44:40,844 --> 00:44:42,984
@@ -2021,7 +1885,7 @@ No, you'd be disappointed.
 
 672
 00:46:42,166 --> 00:46:46,166
-This isn't my real body,
+
 or my real face.
 
 679
@@ -2048,12 +1912,9 @@ Pull.
 
 696
 00:48:38,715 --> 00:48:41,915
-Head back! Z!
-Your armor is running low.
+Head back!
 
-697
-00:48:41,919 --> 00:48:43,119
-I just bought this.
+
 
 698
 00:48:51,128 --> 00:48:52,428
@@ -2075,7 +1936,6 @@ People suffering.
 706
 00:49:23,894 --> 00:49:27,282
 - Actual life-and-death stuff.
-- I know. I know...
 
 708
 00:49:30,673 --> 00:49:33,836
@@ -2197,10 +2057,7 @@ and look where you are now.
 You got a seat on the board,
 head of your own division,
 
-750
-00:51:30,754 --> 00:51:34,424
-a division that will cease to exist if
-the wrong person wins this contest.
+
 
 752
 00:51:37,761 --> 00:51:41,601
@@ -2287,7 +2144,6 @@ No way. That's a great idea.
 
 785
 00:54:50,987 --> 00:54:53,455
-Which school,
 Ridgemont or Faber?
 
 786
@@ -2297,7 +2153,6 @@ not John Hughes.
 
 787
 00:54:56,559 --> 00:54:59,799
-It's a trap.
 Faber College from Animal House.
 
 788
@@ -2436,7 +2291,7 @@ Sorry about the blindfold.
 
 853
 00:59:45,497 --> 00:59:47,615
-My guys are a little paranoid.
+paranoid.
 
 858
 01:00:03,032 --> 01:00:05,772
@@ -2461,9 +2316,6 @@ For the record,
 I've lived with it my whole life.
 You don't have to pretend.
 
-870
-01:01:14,370 --> 01:01:17,170
-You have a birthmark, so what?
 
 871
 01:01:18,041 --> 01:01:19,781
@@ -2520,11 +2372,10 @@ That would make sense.
 911
 01:03:30,740 --> 01:03:35,180
 We gotta remember the clue.
-"A creator who hates his own creation."
 
 916
 01:03:48,024 --> 01:03:49,754
-Hey! No side chitchat.
+No side chitchat.
 
 919
 01:03:57,934 --> 01:03:59,801
@@ -2542,8 +2393,7 @@ The Shining, though.
 
 928
 01:05:04,100 --> 01:05:07,553
-Uh, I had to watch it
-through my fingers.
+I had
 
 929
 01:05:07,554 --> 01:05:11,007
@@ -2648,13 +2498,10 @@ You've never seen The Shining, have you?
 01:08:10,119 --> 01:08:11,519
 You know I hate scary movies!
 
-961
-01:08:11,520 --> 01:08:12,803
-We got the key.
 
 962
 01:08:12,804 --> 01:08:14,088
-Sweet! To room 237!
+Sweet!
 
 963
 01:08:14,090 --> 01:08:16,630
@@ -2738,27 +2585,17 @@ One minute left.
 01:09:50,352 --> 01:09:51,692
 How do we get to her?
 
-992
-01:10:02,231 --> 01:10:05,001
-Okay, Mr. Dead Guy.
-Cool if I lead?
+
 
 993
 01:10:52,615 --> 01:10:54,915
 Care to dance?
 
-994
-01:10:54,917 --> 01:10:58,447
-Do you know how long I've
-been waiting for you to ask?
 
-995
-01:11:04,260 --> 01:11:06,860
-Well, well, well.
 
 996
 01:11:06,862 --> 01:11:11,302
-So you found my Jade Key.
+Jade Key.
 
 997
 01:11:13,736 --> 01:11:15,696
@@ -2773,19 +2610,14 @@ enter the media library.
 01:12:01,184 --> 01:12:02,850
 She cracked the clue.
 
-1002
-01:12:02,851 --> 01:12:06,661
-Now, we just have to win
-The Shining challenge.
+
 
 1003
 01:12:08,991 --> 01:12:11,791
 Get her off me!
 Get her off me!
 
-1005
-01:12:27,843 --> 01:12:29,713
-Jade Key.
+
 
 1007
 01:12:42,458 --> 01:12:45,388
@@ -2804,10 +2636,6 @@ The one with the lame tattoo.
 01:12:59,842 --> 01:13:03,082
 Run him through our database,
 every IOI drone in Columbus.
-
-1011
-01:13:03,083 --> 01:13:04,578
-Find him.
 
 1012
 01:13:31,440 --> 01:13:33,174
@@ -2874,10 +2702,7 @@ with the world.
 That's what I think
 he's trying to tell us.
 
-1029
-01:14:11,213 --> 01:14:14,564
-You know him
-better than anyone.
+
 
 1030
 01:14:14,565 --> 01:14:17,917
@@ -2927,10 +2752,7 @@ the OASIS needs you.
 01:14:55,090 --> 01:14:57,525
 No, no, no, wait! No, no, no!
 
-1041
-01:14:57,526 --> 01:14:59,756
-You'll forgive me
-for this, I promise.
+
 
 1042
 01:15:08,937 --> 01:15:10,567
@@ -3120,9 +2942,7 @@ I have to know exactly,
 how much about rig 
 do you remember?
 
-1093
-01:18:08,116 --> 01:18:10,416
-Kind of everything.
+
 
 1094
 01:18:24,132 --> 01:18:28,042
@@ -3136,12 +2956,7 @@ to section 97 for escort.
 
 1096
 01:18:57,432 --> 01:19:00,302
-Hey! Newbie, get to work.
-
-1098
-01:19:09,878 --> 01:19:13,008
-- Work violation.
-- Work violation.
+Newbie
 
 1099
 01:19:14,750 --> 01:19:17,850
@@ -3294,10 +3109,10 @@ Yeah, that seems appropriate.
 01:22:49,696 --> 01:22:51,495
 Where's the rig?
 
-1152
-01:23:02,344 --> 01:23:04,578
-I think he pissed himself.
 
+1153
+01:23:04,579 --> 01:23:06,579
+We're in his account.
 1157
 01:23:17,525 --> 01:23:20,595
 We grabbed him in transit just as
@@ -3317,10 +3132,10 @@ A fixed rig is easy to locate, hard to hack.
 Unless he's stupid enough to
 leave his password lying around.
 
-1164
-01:23:37,178 --> 01:23:39,008
-All right,
-let's get to work.
+1163
+01:23:35,782 --> 01:23:37,177
+Loyalty center, I'm in.
+
 
 1167
 01:23:50,625 --> 01:23:52,625
@@ -3441,8 +3256,7 @@ you have exceeded your break time.
 
 1222
 01:27:26,541 --> 01:27:30,311
-Report to security or your coin
-count will be reset to zero.
+Report to security
 
 1223
 01:27:39,220 --> 01:27:44,030
@@ -3557,10 +3371,7 @@ Some of you already know this,
 and you've lost much more than
 just your avatars or your weapons.
 
-1253
-01:29:30,965 --> 01:29:33,965
-A force field
-around the third challenge.
+
 
 1254
 01:29:36,471 --> 01:29:40,481
@@ -3604,7 +3415,7 @@ let this guy do...
 
 1269
 01:30:24,952 --> 01:30:26,622
-- It's absolutely everywhere.
+
 - ...was get him a cup of coffee.
 
 1270
@@ -3653,18 +3464,7 @@ clans in the gold mines of Gygax.
 01:31:06,761 --> 01:31:10,001
 Activate the Iron Giant.
 
-1284
-01:31:42,497 --> 01:31:45,097
-of the High Five.
 
-1285
-01:31:45,099 --> 01:31:47,839
-In the name of,
-
-1287
-01:31:50,538 --> 01:31:53,872
-we ask you to join us
-on Planet Doom.
 
 1288
 01:31:53,873 --> 01:31:57,208
@@ -3683,7 +3483,6 @@ the ice broke.
 1294
 01:33:51,993 --> 01:33:55,763
 Well, all three Swordquests.
-What's next?
 
 1295
 01:33:55,764 --> 01:33:57,603
@@ -3722,9 +3521,6 @@ so we should be fine.
 The Sixers are in the final challenge.
 It's an Atari 2600.
 
-1314
-01:37:17,967 --> 01:37:20,195
-Are you in the Sixer war room?
 
 1315
 01:37:20,201 --> 01:37:21,801
@@ -3740,9 +3536,6 @@ Created!
 He was the first designer to
 ever hide an Easter egg in...
 
-1320
-01:37:29,844 --> 01:37:30,914
-Dude!
 
 1321
 01:37:35,883 --> 01:37:38,723
@@ -3775,9 +3568,7 @@ ordinance cannon!
 01:38:28,335 --> 01:38:31,065
 Railgun!
 
-1332
-01:38:46,787 --> 01:38:48,687
-Get rid of it!
+
 
 1333
 01:38:49,757 --> 01:38:51,627
@@ -3795,17 +3586,10 @@ Go now, he's distracted.
 1344
 01:41:46,767 --> 01:41:49,197
 He's only got 30 seconds
-before changing back!
 
-1345
-01:42:00,380 --> 01:42:03,320
-abort, abort!
-You got 10 seconds!
 
-1349
-01:43:23,297 --> 01:43:25,827
-Z! Got to get
-to the castle!
+
+
 
 1353
 01:44:32,733 --> 01:44:35,343
@@ -3821,41 +3605,17 @@ You need to log out.
 If the game is Adventure,
 why haven't they won yet?
 
-1361
-01:45:34,261 --> 01:45:35,331
-You're in trouble, aren't you?
 
-1364
-01:45:43,637 --> 01:45:45,204
-I can handle the challenge,
 
-1365
-01:45:45,205 --> 01:45:48,304
-but I can't let you get hurt
-in the real world.
 
-1366
-01:45:48,305 --> 01:45:51,405
-Get out of IOI,
-and meet us at River South.
 
-1368
-01:45:59,453 --> 01:46:01,323
-You'll forgive me
-for this, I promise.
 
 1370
 01:46:12,566 --> 01:46:16,036
 Get it together, Sixer.
 Back to respawn.
 
-1371
-01:46:16,037 --> 01:46:17,366
-Let's go, move.
 
-1372
-01:46:17,371 --> 01:46:18,641
-You're in.
 
 1373
 01:46:36,857 --> 01:46:39,487
@@ -3867,23 +3627,14 @@ How much did that cost?
 Less than
 it's gonna cost them.
 
-1375
-01:46:43,063 --> 01:46:44,633
-What is that?
 
 1376
 01:46:54,941 --> 01:46:57,681
 Sir, the gunters
 are approaching the challenge.
 
-1378
-01:46:59,679 --> 01:47:00,946
-Prepare my rig.
 
-1379
-01:47:00,947 --> 01:47:03,647
-The ice is holding.
-Still going.
+
 
 1387
 01:47:42,789 --> 01:47:45,289
@@ -3920,9 +3671,7 @@ to the invisible dot.
 It's pretty easy
 if you know what you're doing.
 
-1394
-01:48:00,307 --> 01:48:01,637
-Really?
+
 
 1395
 01:48:02,476 --> 01:48:04,846
@@ -3938,9 +3687,7 @@ would I ever do that?
 Dude!
 That's the Cataclyst.
 
-1401
-01:48:24,180 --> 01:48:26,097
-Now, personally, I don't care.
+
 
 1402
 01:48:26,099 --> 01:48:27,829
@@ -3957,10 +3704,6 @@ with any of this absurdity.
 But I know how important 
 competition is to you, so...
 
-1405
-01:48:35,208 --> 01:48:39,648
-I will never let the future of the OASIS
-rest in your hands,
 
 1406
 01:48:39,649 --> 01:48:43,676
@@ -3990,41 +3733,17 @@ That's a camper move.
 You don't even know
 how to activate an orb.
 
-1413
-01:49:06,139 --> 01:49:07,269
-Yeah, I felt those.
+
 
 1415
 01:49:14,681 --> 01:49:15,981
 Hadouken!
 
-1418
-01:50:37,397 --> 01:50:39,127
-Get me out of this thing.
 
-1419
-01:50:53,513 --> 01:50:54,880
-Uh...
 
-1420
-01:50:54,881 --> 01:50:56,248
-Guys?
 
-1421
-01:51:02,789 --> 01:51:04,689
-Z. He's still alive!
 
-1422
-01:51:12,532 --> 01:51:14,402
-Extra life.
 
-1423
-01:51:16,770 --> 01:51:18,240
-Thanks, Curator.
-
-1424
-01:51:21,041 --> 01:51:22,241
-Hold on.
 
 1425
 01:51:29,949 --> 01:51:32,549
@@ -4055,27 +3774,17 @@ at the end of the game.
 You've gotta go straight to the
 invisible dot at the start.
 
-1432
-01:51:59,012 --> 01:52:00,979
-Is that her?
+
 
 1433
 01:52:00,980 --> 01:52:04,380
-Red hair, IOI uniform,
 doesn't know what planet she's on?
 
-1434
-01:52:04,384 --> 01:52:05,494
-That's her.
 
 1435
 01:52:17,263 --> 01:52:20,073
-I'm Toshiro.
-You know me as.
+Toshiro.
 
-1436
-01:52:22,902 --> 01:52:24,002
-Oh.
 
 1438
 01:52:30,176 --> 01:52:34,346
@@ -4092,24 +3801,11 @@ a late '30s-model postal van.
 Wait, I thought the Cataclyst went off.
 How are you still playing?
 
-1442
-01:52:45,094 --> 01:52:47,661
-Extra life, long story.
-Sorry I shot you.
-
 1446
 01:52:57,241 --> 01:52:59,567
-- Dude, give me a hug.
-- Ninjas don't hug!
+Ninjas
 
-1447
-01:52:59,572 --> 01:53:01,142
-All right, everybody,
-hold on to somethin'.
 
-1448
-01:53:22,896 --> 01:53:24,226
-Got you.
 
 1451
 01:53:34,674 --> 01:53:37,244
@@ -4134,10 +3830,7 @@ What's goin' on out there?
 - The game is over for them.
 - What are they watching?
 
-1459
-01:54:13,880 --> 01:54:16,250
-The final key!
-It's being broadcast.
+
 
 1462
 01:54:22,839 --> 01:54:25,724
@@ -4186,9 +3879,7 @@ I can't see shit.
 01:55:14,707 --> 01:55:16,137
 just got the Crystal Key!
 
-1472
-01:55:31,391 --> 01:55:33,161
-Do you want it or not?
+
 
 1473
 01:55:36,429 --> 01:55:38,529
@@ -4226,21 +3917,6 @@ Okay, hold on!
 Stick the key in,
 how hard is it?
 
-1482
-01:56:39,592 --> 01:56:40,832
-Come on.
-
-1483
-01:56:48,201 --> 01:56:50,271
-Yeah! Yes!
-
-1484
-01:57:06,452 --> 01:57:07,722
-That's it?
-
-1485
-01:57:08,488 --> 01:57:10,355
-Yeah, that's it.
 
 1486
 01:57:10,356 --> 01:57:14,856
@@ -4265,22 +3941,7 @@ I'm gonna need a second.
 sign over his shares 
 in Gregarious.
 
-1494
-01:58:25,298 --> 01:58:27,968
-That was the biggest mistake
-of his life.
 
-1495
-01:58:27,969 --> 01:58:30,167
-He knew that.
-
-1496
-01:58:31,871 --> 01:58:33,971
-This can't be the end.
-
-1500
-01:58:54,327 --> 01:58:57,827
-I just needed to be sure.
 
 1501
 01:59:11,777 --> 01:59:14,047
@@ -4416,39 +4077,8 @@ as reality can be,
 02:01:42,261 --> 02:01:46,331
 it's also the only place
 
-1530
-02:01:47,933 --> 02:01:49,643
-that you can get
-a decent meal.
 
-1531
-02:01:56,242 --> 02:01:57,812
-Because
 
-1532
-02:01:59,478 --> 02:02:01,148
-reality
-
-1533
-02:02:06,252 --> 02:02:07,919
-is real.
-
-1534
-02:02:07,920 --> 02:02:09,690
-You understand
-what I'm saying?
-
-1535
-02:02:11,457 --> 02:02:14,157
-Yes. Yes, I do.
-
-1536
-02:02:23,869 --> 02:02:25,199
-He did it.
-
-1537
-02:02:26,839 --> 02:02:28,369
-He got the egg.
 
 1538
 02:02:29,141 --> 02:02:30,441
@@ -4460,20 +4090,12 @@ Hold it!
 
 1542
 02:03:13,853 --> 02:03:16,593
-Turn around!
 Hands on your head.
-
-1543
-02:03:16,594 --> 02:03:18,219
-Walk back towards me.
 
 1545
 02:03:39,114 --> 02:03:41,911
 You're not an avatar, are you?
 
-1555
-02:04:43,782 --> 02:04:45,944
-You can call me "Og."
 
 1556
 02:04:45,945 --> 02:04:48,905
@@ -4498,18 +4120,12 @@ about the clip you sent in
 02:05:34,128 --> 02:05:36,326
 confession.
 
-1565
-02:05:36,328 --> 02:05:39,058
-Uh, that was me.
 
 1566
 02:05:39,064 --> 02:05:41,704
 What? I record everything
 in my workshop.
 
-1567
-02:05:48,040 --> 02:05:49,980
-Help me out of this.
 
 1568
 02:05:56,248 --> 02:05:58,548
@@ -4570,18 +4186,7 @@ on your own.
 02:07:53,799 --> 02:07:55,629
 You were the Rosebud.
 
-1591
-02:07:59,538 --> 02:08:01,208
-losing his only friend.
 
-1592
-02:08:05,377 --> 02:08:07,707
-You know,
-Jim used to say the OASIS
-
-1594
-02:08:13,886 --> 02:08:16,686
-Now, who do we have here?
 
 1595
 02:08:16,689 --> 02:08:19,357
@@ -4618,20 +4223,13 @@ our second move was to ban
 any loyalty centers
 from accessing the OASIS.
 
-1605
-02:08:45,499 --> 02:08:48,717
-IOI had no choice.
-They shut 'em all down.
+
 
 1606
 02:08:51,423 --> 02:08:54,425
 The third thing we did
 wasn't as popular.
 
-1607
-02:08:54,426 --> 02:08:58,426
-We closed the OASIS
-on Tuesdays and Thursdays.
 
 1608
 02:08:58,430 --> 02:09:00,930
