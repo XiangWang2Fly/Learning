@@ -7,13 +7,6 @@ Gilmore.
 Corn Syrup Droughts, 
 Bandwidth Riots
 
-11
-00:02:27,447 --> 00:02:29,747
-outlive them
-
-12
-00:02:36,322 --> 00:02:39,541
-make it
 
 14
 00:02:42,762 --> 00:02:47,101
@@ -42,12 +35,9 @@ pressure-sensitive underlay.
 34
 00:04:07,914 --> 00:04:10,724
 Surf a 50-foot monster wave
-in Hawaii.
-
 35
 00:04:10,725 --> 00:04:13,617
-ski 
-down the pyramids.
+pyramids.
 
 36
 00:04:13,620 --> 00:04:15,520
@@ -55,21 +45,12 @@ Mount Everest
 
 38
 00:04:19,726 --> 00:04:23,356
-Check out this place.
 It's a casino the size of a planet.
 
 41
 00:04:27,433 --> 00:04:31,270
 go in there
 
-45
-00:04:42,545 --> 00:04:46,045
-a different species,
-live-action
-
-46
-00:04:46,052 --> 00:04:48,654
-It's all your call.
 
 48
 00:04:51,991 --> 00:04:55,961
@@ -152,25 +133,11 @@ if they had the skills.
 Death matches and artifact hunts
 are a good way to coin-snatch,
 
-85
-00:06:43,836 --> 00:06:45,666
-Everything you've
-ever worked for.
-
 92
 00:07:07,460 --> 00:07:09,900
 10 minutes
 until the race starts.
 
-94
-00:07:12,098 --> 00:07:16,234
-brainchild
-
-97
-00:07:25,411 --> 00:07:29,051
-out of the picture
-
-100
 00:07:36,322 --> 00:07:38,492
 worshiped him
 
@@ -204,11 +171,6 @@ inside the OASIS
 will inherit my stock
 in Gregarious Games,
 
-117
-00:08:54,467 --> 00:08:58,337
-currently valued in excess
-of half a million do...
-
 118
 00:08:58,338 --> 00:09:01,337
 Uh, half a trillion
@@ -240,18 +202,7 @@ where the prize awaits.
 
 126
 00:09:33,873 --> 00:09:36,443
-Off you go, keys.
-
-127
-00:09:38,711 --> 00:09:43,721
-The keys aren't just laying
-around under a rock somewhere.
-
-128
-00:09:43,722 --> 00:09:46,446
-I suppose you could say
-they're invisible,
-
+Off you go
 129
 00:09:46,452 --> 00:09:50,192
 hidden in a dark room
@@ -308,9 +259,6 @@ as in "egg hunters,"
 00:10:37,837 --> 00:10:41,637
 the Sixers.
 
-145
-00:10:41,641 --> 00:10:42,811
-IOI...
 
 147
 00:10:44,410 --> 00:10:46,144
@@ -340,9 +288,6 @@ into winning contest.
 00:10:53,152 --> 00:10:54,852
 Buckle up!
 
-153
-00:10:55,621 --> 00:10:57,856
-Sit in!
 
 154
 00:10:57,857 --> 00:11:00,527
@@ -379,8 +324,7 @@ the orders of the head of IOI,
 
 161
 00:11:18,544 --> 00:11:21,684
-this dickweed
-named Nolan Sorrento.
+dickweed Nolan Sorrento.
 
 162
 00:11:27,653 --> 00:11:29,287
@@ -424,24 +368,16 @@ That's Kaneda's bike from Akira.
 It's a licensed skin
 over a standard frame.
 
-176
-00:13:35,414 --> 00:13:37,768
-No, not the bike.
-Forget the bike.
 
 177
 00:13:37,769 --> 00:13:40,093
-The girl,
-I think it's Art3mis.
+Art3mis.
 
-178
-00:13:40,094 --> 00:13:42,419
-The Sixer Fixer?
 
 179
 00:13:42,421 --> 00:13:45,361
 I've seen all her walk-throughs,
-her Twitch streams.
+Twitch streams.
 
 180
 00:13:45,362 --> 00:13:47,327
@@ -470,13 +406,8 @@ Bail!
 
 192
 00:17:07,159 --> 00:17:09,289
-Where did you find
 an Iron Giant?
 
-193
-00:17:09,294 --> 00:17:12,213
-- Find it? I'm building it.
-- That's a commission.
 
 194
 00:17:12,214 --> 00:17:15,093
@@ -519,10 +450,6 @@ Folds space like a boss.
 00:17:34,319 --> 00:17:36,389
 I mean, you can get from Incipio
 to Arrakis in three seconds...
-
-204
-00:17:36,390 --> 00:17:38,156
-Fingers!
 
 205
 00:17:38,157 --> 00:17:39,587
@@ -610,6 +537,11 @@ Video Take on Me by A-ha.
 00:18:47,593 --> 00:18:50,063
 "ingredients on the back of a chewing-gum wrapper
 
+231
+00:18:50,064 --> 00:18:53,132
+"and unlock the secrets
+of the universe."
+
 232
 00:18:53,133 --> 00:18:55,572
 Lex Luthor.
@@ -633,29 +565,16 @@ No one ever makes it past Kong.
 Well, then you know it can't be true.
 hated making rules.
 
-242
-00:19:25,497 --> 00:19:27,297
-- No, I'm not!
 
 245
 00:19:30,269 --> 00:19:32,599
 takes over the world.
-249
-00:19:42,114 --> 00:19:44,329
-There you go. 
-
-250
-00:19:44,330 --> 00:19:46,546
-Thanks for the fix-up, my man.
 
 252
 00:19:58,330 --> 00:20:02,370
 I'll wave to you
-from the finish line, McFly.
 
-254
-00:20:07,005 --> 00:20:08,905
-Captain Big Mouth.
+
 
 255
 00:20:08,907 --> 00:20:12,337
@@ -717,10 +636,6 @@ Wait.
 How much of our house money
 did you spend on upgrades?
 
-273
-00:21:02,060 --> 00:21:04,930
-Well, all of it,
-but I was gonna win.
 
 274
 00:21:04,931 --> 00:21:07,870
@@ -872,9 +787,6 @@ of memories
 00:22:55,374 --> 00:22:56,644
 are left to people like me.
 
-312
-00:22:56,645 --> 00:22:59,410
-Oh, joy!
 
 313
 00:22:59,411 --> 00:23:02,911
@@ -932,10 +844,6 @@ and happy gunting!
 00:23:37,382 --> 00:23:39,216
 I like cleaning up.
 
-326
-00:23:39,217 --> 00:23:41,647
-Okay, Jim,
-I'm, uh... I'm going.
 
 327
 00:23:46,558 --> 00:23:49,527
@@ -966,10 +874,6 @@ people are living inside the arcade we built.
 - I built.
 - Uh, well...
 
-333
-00:24:04,543 --> 00:24:07,253
-Right. Well,
-I guess you can say whatever you want.
 
 334
 00:24:07,254 --> 00:24:08,775
@@ -1008,25 +912,7 @@ if you make something people want or need
 then it's up to you to set the limits.
 You have to make some rules.
 
-343
-00:24:23,562 --> 00:24:25,402
-I don't wanna make
-any more rules.
 
-347
-00:24:31,069 --> 00:24:33,839
-We created something beautiful,
-Jim, but it's changed.
-
-348
-00:24:33,840 --> 00:24:35,469
-Okay? It's really
-not a game anymore.
-
-350
-00:24:37,108 --> 00:24:41,648
-I liked how things were
-when they were...
 
 351
 00:24:43,081 --> 00:24:45,249
@@ -1039,24 +925,17 @@ But that's the point, isn't it?
 
 353
 00:24:48,021 --> 00:24:50,519
-Things move forward
-whether you like it or not.
+whether
 
 
 355
 00:24:52,663 --> 00:24:54,357
 Fine.
 
-356
-00:24:56,528 --> 00:25:00,368
-Why can't we go backwards,
-for once?
-
 
 358
 00:25:06,872 --> 00:25:08,972
-Really put the pedal to the metal,
-you know?
+pedal to the metal
 
 360
 00:25:11,676 --> 00:25:16,306
@@ -1079,7 +958,7 @@ Bill and Ted did it.
 
 368
 00:27:42,160 --> 00:27:47,000
-Nice racing, Padawan.
+Padawan.
 
 
 373
@@ -3942,105 +3821,30 @@ in Gregarious.
 
 
 
-1501
-01:59:11,777 --> 01:59:14,047
-This is where you grew up.
-
-1502
-01:59:23,256 --> 01:59:26,186
-Oh, that's just me
-a long time ago.
-
 1503
 01:59:26,192 --> 01:59:29,802
 I like to have him around
 from time to time.
 
-1504
-01:59:29,803 --> 01:59:32,095
-Hey, I have
-to show you something.
 
-1505
-01:59:32,098 --> 01:59:33,798
-This, uh... Come on.
-
-1506
-01:59:33,799 --> 01:59:35,634
-This is the button.
-
-1507
-01:59:35,635 --> 01:59:38,935
-If you push it,
-the whole simulation shuts down
 
 1508
 01:59:38,938 --> 01:59:42,538
-and a tapeworm program will
-erase all of the backup servers.
-
-1509
-01:59:42,542 --> 01:59:46,312
-So you now have the power
-to turn the OASIS off forever.
-
-1510
-01:59:46,313 --> 01:59:47,952
-Do you understand?
-
-1511
-01:59:53,319 --> 01:59:54,486
-Yeah,
-
-1512
-01:59:54,487 --> 01:59:56,454
-try not to accidentally erase
-
-1513
-01:59:56,455 --> 01:59:59,185
-the whole of the OASIS
-on your first day.
+tapeworm
 
 1514
 02:00:08,501 --> 02:00:10,271
 The stacks are straight ahead!
 
-1515
-02:00:26,018 --> 02:00:28,987
-Well, I expect you have to go.
-I know I do.
 
-1516
-02:00:28,988 --> 02:00:31,518
-So, now is the time for you
-to receive your prize
 
-1517
-02:00:31,524 --> 02:00:34,059
-because you won
-all three keys.
 
-1518
-02:00:34,060 --> 02:00:38,760
-Once you take this egg,
-the game will be over.
-
-1519
-02:00:38,764 --> 02:00:41,904
-The egg, the egg...
-
-1520
-02:00:49,275 --> 02:00:51,705
-We know what you did here.
 
 1521
 02:00:51,711 --> 02:00:55,081
 You turn around and walk out
 of here while you still can.
 
-1522
-02:01:07,627 --> 02:01:10,195
-I created the OASIS
 
 1523
 02:01:10,196 --> 02:01:14,926
@@ -4069,15 +3873,7 @@ I realized that,
 
 1528
 02:01:36,372 --> 02:01:41,459
-as terrifying and painful
-as reality can be,
-
-1529
-02:01:42,261 --> 02:01:46,331
-it's also the only place
-
-
-
+terrifying
 
 1538
 02:02:29,141 --> 02:02:30,441
@@ -4091,50 +3887,15 @@ Hold it!
 02:03:13,853 --> 02:03:16,593
 Hands on your head.
 
-1545
-02:03:39,114 --> 02:03:41,911
-You're not an avatar, are you?
-
 
 1556
 02:04:45,945 --> 02:04:48,905
 Now, there are some people out here
 that would very much like to meet you.
 
-1557
-02:04:48,914 --> 02:04:52,150
-Wow, this is incredible.
-
-1558
-02:04:52,151 --> 02:04:54,991
-It's an honor to meet you,
-Og, but I...
-
 1563
 02:05:31,857 --> 02:05:34,127
-We need you to make a statement
-about the clip you sent in
-
-1564
-02:05:34,128 --> 02:05:36,326
-confession.
-
-
-1566
-02:05:39,064 --> 02:05:41,704
-What? I record everything
-in my workshop.
-
-
-1568
-02:05:56,248 --> 02:05:58,548
-Who are you guys?
-
-1569
-02:05:58,551 --> 02:06:02,921
-The people you need right now, lawyers.
-From Gregarious Games.
-
+clip
 1571
 02:06:15,267 --> 02:06:17,336
 I'm splitting it with my clan.
@@ -4156,34 +3917,9 @@ on my magic sleigh.
 1578
 02:07:13,258 --> 02:07:15,827
 Everyone's been watching.
-
-1579
-02:07:15,828 --> 02:07:19,128
-Of course, I've been watching
-a little closer than most.
-
-1583
-02:07:33,445 --> 02:07:35,475
-Jim told me nothing
-about the contest,
-
-1584
-02:07:35,481 --> 02:07:38,851
-so there was no rule about me
-losing a bet to a smart kid.
-
-1585
-02:07:38,852 --> 02:07:41,486
-Not that you needed my help.
-
-1586
-02:07:41,487 --> 02:07:45,817
-You figured out that 
-on your own.
-
 1589
 02:07:53,799 --> 02:07:55,629
-You were the Rosebud.
+Rosebud.
 
 
 
@@ -4228,15 +3964,4 @@ from accessing the OASIS.
 02:08:51,423 --> 02:08:54,425
 The third thing we did
 wasn't as popular.
-
-
-1608
-02:08:58,430 --> 02:09:00,930
-I know, it sounds
-like a weird move,
-
-1609
-02:09:00,933 --> 02:09:03,903
-but people need to spend
-more time in the real world.
 
